@@ -1,2 +1,6 @@
 Another Local change
+<<<<<<< HEAD
 A lot of changes RAAHAHHHH
+=======
+Kisi aur ka change
+>>>>>>> refs/remotes/origin/master
