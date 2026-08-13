@@ -1,3 +1,7 @@
 I want to eat pancakes :yum
 Lassi mil jaaye 
-Bohot bhook lag rahi hai yaar :broken_heart
+<<<<<<< HEAD
+sdfidsfkjafp 
+=======
+dfgijdsfngkjdngfkjsdg
+>>>>>>> 5074c4efa34fad30881f9d140316697d98b7c4e6
