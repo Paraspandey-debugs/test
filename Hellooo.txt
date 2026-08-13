@@ -1,6 +1,3 @@
 I want to eat pancakes :yum
-<<<<<<< HEAD
 Lassi mil jaaye 
-=======
-Bohot bhook lag rahi hai yaar :broken_heart
->>>>>>> refs/remotes/origin/master
+dfgijdsfngkjdngfkjsdg
